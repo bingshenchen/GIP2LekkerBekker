@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6+pyREOxVbdKQwo0BhkSTDTbz1biMAC8vkYpnp4MHfN7Idc7I6L477jGSodP2f3YbtIiJgVcayLxUn8WFCrAlg==",
+  "dgSpecHash": "BczNXcbEv298qPER+MU3SYcaaP6AyVA8h2OpVVyOPXzgQQ4iZLYBPykmlYz4yB7rfsZrNQQsX9gFFqqzJKaFsw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cbs23\\source\\repos\\Zjekke\\LekkerBek\\LekkerBek\\LekkerBek.csproj",
+  "projectFilePath": "C:\\Users\\cbs23\\Desktop\\GIP\\Opdrachten\\GiP 2\\GIP2LekkerBekker\\LekkerBek\\LekkerBek\\LekkerBek.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cbs23\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\cbs23\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

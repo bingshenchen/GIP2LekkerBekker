@@ -10590,11 +10590,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cbs23\\source\\repos\\Zjekke\\LekkerBek\\LekkerBek\\LekkerBek.csproj",
+      "projectUniqueName": "C:\\Users\\cbs23\\Desktop\\GIP\\Opdrachten\\GiP 2\\GIP2LekkerBekker\\LekkerBek\\LekkerBek\\LekkerBek.csproj",
       "projectName": "LekkerBek",
-      "projectPath": "C:\\Users\\cbs23\\source\\repos\\Zjekke\\LekkerBek\\LekkerBek\\LekkerBek.csproj",
+      "projectPath": "C:\\Users\\cbs23\\Desktop\\GIP\\Opdrachten\\GiP 2\\GIP2LekkerBekker\\LekkerBek\\LekkerBek\\LekkerBek.csproj",
       "packagesPath": "C:\\Users\\cbs23\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cbs23\\source\\repos\\Zjekke\\LekkerBek\\LekkerBek\\obj\\",
+      "outputPath": "C:\\Users\\cbs23\\Desktop\\GIP\\Opdrachten\\GiP 2\\GIP2LekkerBekker\\LekkerBek\\LekkerBek\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -10609,7 +10609,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.telerik.com/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -10665,7 +10666,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
